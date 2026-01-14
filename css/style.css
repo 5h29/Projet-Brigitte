@@ -77,7 +77,7 @@ header > div > a{
     background-image: url(/img/background-saison1.png);
     background-repeat: no-repeat;
     background-size: 750px;
-    background-position-x: 600px;
+    background-position-x: 760px;
     background-position-y: -110px;
 }
 
@@ -156,13 +156,14 @@ header > div > a{
 .galerie-section2 div{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    padding: 10px;
 }
 
 .galerie-article2 div{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 10px;
-    grid-auto-rows: 390px;
+    grid-auto-rows: 250px;
 }
 
 .galerie-article2 div img{
@@ -181,11 +182,28 @@ header > div > a{
     grid-row: 2;
 }
 
+.galerie-article1{
+    background-color: #FBBBCD;
+    padding: 0px 30px;
+}
 
+.galerie-article1 h2{
+    padding: 0px 0px 70px 0px;
+    font-size: 39px;
+    font-weight: 400;
+    font-family: "Gloria Hallelujah", cursive;
+}
+.galerie-article1 p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    padding:0px 0px 30px 0px;
+}
 
-
-
-
+.btn-galerie{
+    padding: 10px;
+    color: black;
+}
 
 
 

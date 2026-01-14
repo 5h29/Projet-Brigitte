@@ -25,11 +25,11 @@ header img{
 header ul{
     list-style: none;
     padding: 0;
+    gap: 25px;
+    display: flex;
 }
 
 header li{
-    gap: 25px;
-    display: flex;
     line-height: 24px;
     font-size: 14px;
     font-weight: 600;
@@ -77,13 +77,13 @@ footer img{
 }
 
 footer ul{
+    gap: 25px;
+    display: flex;
     list-style: none;
     padding: 0;
 }
 
 footer li{
-    gap: 25px;
-    display: flex;
     line-height: 24px;
     font-size: 14px;
     font-weight: 600;

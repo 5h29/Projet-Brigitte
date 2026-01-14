@@ -1,3 +1,5 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Oswald:wght@200..700&family=Pacifico&family=Paytone+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* Général */
 *{
@@ -58,6 +60,122 @@ header > div > a{
     gap: 20px;
     color: #CC3900;
 }
+
+/* MAIN */
+
+.accueil-section1{
+    max-width: 1440px;
+    margin: auto;
+    padding: 15px;
+    align-items: center;
+}
+
+.bienvenue{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.ligne-texte {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 130px;
+    margin: 0;
+    padding: 0px 0px 0px 10px;
+}
+
+.ligne-texte hr {
+    flex: 1;
+    border: none;
+    border-top: 2px solid #CC3900;
+}
+
+.ligne-texte span{
+    font-weight: 500;
+    line-height: 24px;
+    font-size: 16px;
+    color: #CC3900;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
+
+.accueil-section1 h1{
+    padding: 40px 0px 20px 0px;
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 45px;
+}
+
+.accueil-section1 h2{
+    padding: 28px 0px 20px 0px;
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 28px;
+}
+
+.accueil-section1 p{
+    padding: 10px 0px 40px 0px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    width: 65%;
+    margin: 0;
+}
+
+.accueil-section1 a{
+    padding: 13px 25px;
+    background-color: #FFFFFF;
+    color: #000000;
+    text-decoration: none;
+    border: 1px solid #FBBBCD;
+}
+
+.accueil-article2{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* FOOTER */
 

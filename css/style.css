@@ -338,30 +338,147 @@ header > div > a{
     color: #CC3900;
 }
 
-.fa-instagram{
+.insta2{
     margin-left: 200px;
 }
 
+.actualités-section5{
+    max-width: 1440px;
+    margin: auto;
+    padding: 80px 50px 85px;
+}
 
+.div2-section5{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 20px 0;
+}
 
+.div1-section5{
+    display: flex;
+}
 
+.div1-section5 h2{
+    font-size: 45px;
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    margin: 0;
+}
 
+.div1-section5 a{
+border: 1px solid #FBBBCD;
+    text-decoration: none;
+    color: black;
+    padding: 13px 25px;
+    margin-left: 310px;
+}
 
+.div1-section5 a:hover{
+    background-color: #CC3900;
+    transition: 0.7s ease-in-out;
+}
 
+.div2-section5 h3{
+    font-family: "Gloria Hallelujah", cursive;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px 0px 0px;;
+}
 
+.date1{
+    padding: 10px 0;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+}
 
+.art2{
+    width: 100%;
+    height: 100%;
+}
 
+.actualité-img{
+    height: 378px;
+    width: 378px;
+}
 
+.autre1{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 400;
+}
 
+.autre2{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 400;
+    padding: 10px 0px 0px;
+}
 
+.p1sec5{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 400;
+}
 
+.read-more{
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+}
 
+.read-more-mide{
+    margin-top: 50px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+}
 
+.contacte-section6{
+    background-color: #CC3900;
+    max-width: 1440px;
+    margin: auto;
+    padding: 100px 0px;
+    text-align: center;
+}
 
+.contacte-section6 h2{
+    font-size: 45px;
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    color: #FFFFFF;
+    max-width: 55%;
+    line-height: 45px;
+    margin-bottom: 50px;
+}
 
+.contacte-section6 p{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+    max-width: 55%;
+}
 
+.contacte-section6 a{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 13px 25px;
+    border: 1px solid #FBBBCD;
+}
 
-
+.contacte-section6 a:hover{
+    background-color: #FBBBCD;
+    transition: 0.7s ease-in-out;
+}
 
 
 

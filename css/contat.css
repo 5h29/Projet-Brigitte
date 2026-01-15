@@ -64,9 +64,58 @@ header > div > a{
     gap: 20px;
     color: #CC3900;
 }
+/* MAIN */
 
+.contact{
+    max-width: 1440px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 15px;
+}
 
+.contact h1{
+    font-family: "Gloria Hallelujah", cursive;
+    font-size: 45px;
+    font-weight: 400px;
+    margin-bottom: 20px;
+}
 
+.p1{
+    font-family: "Noto Sans", sans-serif;
+    margin-bottom: 34px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.divmain{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+main i{
+    margin: 0;
+    color: #CC3900;
+}
+
+.seconde{
+    margin: 0 15px;
+}
+
+.p2{
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.titreprt1{
+    font-family: "Gloria Hallelujah", cursive;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+}
 
 
 

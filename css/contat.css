@@ -117,6 +117,64 @@ main i{
     line-height: 30px;
 }
 
+.configuration div{
+    margin-bottom: 10px;
+}
+
+.configuration p{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 3px;
+}
+
+.configuration a{
+    padding: 8px 131px;
+    border-radius: 3px;
+    background-color: #FBBBCD;
+    text-decoration: none;
+    color: white;
+}
+
+.nom-et-prenom input{
+    padding: 6px 150px 6px 6px;
+    border: 1px solid #818A91;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+}
+
+
+.info-email input{
+    padding: 6px 150px 6px 6px;
+    border: 1px solid #818A91;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+}
+
+
+.info-sujet input{
+    padding: 6px 150px 120px 6px;
+    border: 1px solid #818A91;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
